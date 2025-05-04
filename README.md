@@ -31,8 +31,8 @@ Welcome to the **AI Safety Incident Dashboard**! This is a modern, interactive w
 ### 2. Installation
 ```sh
 # Clone the repository
-$ git clone <your-repo-url>
-$ cd "project 2"
+$ git clone https://github.com/TirtharajBarma/sparklehood.git
+$ cd "sparklehood"
 
 # Install dependencies
 $ npm install
@@ -49,17 +49,12 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser.
 $ npm run build
 ```
 
-### 5. Lint Your Code
-```sh
-$ npm run lint
-```
-
 ---
 
 ## 🗂️ Project Structure
 
 ```text
-project 2/
+sparklehood/
 ├── src/
 │   ├── components/  
 │   ├── context/      
